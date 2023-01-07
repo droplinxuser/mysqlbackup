@@ -1,10 +1,10 @@
 [mysql]
-host=dbhost
+host=localhost
 user=dba
 password=dba_passwd
 
 [mysqldump]
-host=dbhost
+host=localhost
 user=dba
 password=dba_passwd
 force
