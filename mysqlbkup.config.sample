@@ -18,5 +18,5 @@ DATE_FORMAT=
 DB_EXCLUDE_FILTER=
 
 # Compression library
-BKUP_BIN=gzip # Change this to xz if you wish, for tighter compression
-BKUP_EXT=gz   # Change this to xz if you wish, for tighter compression
+BKUP_BIN=xz # Change this to xz if you wish, for tighter compression
+BKUP_EXT=xz # Change this to xz if you wish, for tighter compression
