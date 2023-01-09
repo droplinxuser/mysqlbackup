@@ -11,6 +11,6 @@ force
 opt
 routines
 triggers
-max_allowed_packet=256M
+max_allowed_packet=1024M
 single-transaction
 skip-lock-tables
