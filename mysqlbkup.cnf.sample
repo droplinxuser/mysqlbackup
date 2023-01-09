@@ -13,5 +13,4 @@ routines
 triggers
 max_allowed_packet=256M
 single-transaction
-quick
 skip-lock-tables
