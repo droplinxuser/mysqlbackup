@@ -84,7 +84,7 @@ do
 done
 
 # the date is used for backup file names
-date=$(date +%F)
+date=$(date +"%m-%d_%I-%M-%S_%p")
 if [ ! -z $DATE_FORMAT ]; then
     date=$(date "$DATE_FORMAT")
 fi
