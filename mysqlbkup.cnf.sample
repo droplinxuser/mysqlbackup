@@ -12,5 +12,5 @@ opt
 routines
 triggers
 max_allowed_packet=1GB
-single-transaction
-skip-lock-tables
+single_transaction
+skip_lock_tables
