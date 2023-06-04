@@ -5,7 +5,7 @@
 
 DEFAULTS_FILE=/etc/mysqlbkup.cnf
 
-BACKUP_DIR=/var/www/html/mysql_database
+BACKUP_DIR=/var/www/mysql_database
 
 MAX_BACKUPS=5
 
